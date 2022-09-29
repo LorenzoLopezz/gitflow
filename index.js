@@ -1,5 +1,5 @@
-console.log("Hola mundo");
-console.log("Adios");
+console.log("Hola mundo!");
+console.log("Adios!");
 
-const suma = 1 + 3 ;
+const suma = 1 + 4 ;
 console.log(suma);
